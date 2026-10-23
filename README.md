@@ -6,7 +6,9 @@ A blue-eyed Ragdoll cat companion for Codex desktop. Yantuan quietly sways its t
 
 This repository shares the **actual installed artwork**, including the September 27, 2026 idle-tail refinement, with an offline preview and small, readable installation tools. Maintained by [LONGEVIS](https://www.longevis.net/).
 
-![Yantuan offline preview](docs/preview.png)
+![Yantuan animation: tail sway, butterfly chase, and glass wipe](docs/yantuan-demo.gif)
+
+Tail sway → butterfly chase → glass wipe. The loop uses the supplied sprite frames; actual timing and triggers depend on the host application. [Still screenshot](docs/preview.png).
 
 ## Preview
 

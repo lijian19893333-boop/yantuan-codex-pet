@@ -6,7 +6,9 @@
 
 本仓库分享**实际安装使用的焰团素材**，包含 2026 年 9 月 27 日更新的待机微摆尾，并提供离线预览和可读的安装工具。由 [LONGEVIS 朗静岛](https://www.longevis.net/) 维护。
 
-![Yantuan offline preview](docs/preview.png)
+![焰团动作预览：摇尾巴、追蝴蝶、擦玻璃](docs/yantuan-demo.gif)
+
+摇尾巴 → 追蝴蝶 → 擦玻璃。动图使用本包的真实动作帧循环播放；实际节奏与触发时机由宿主应用决定。[查看静态截图](docs/preview.png)。
 
 ## 先看看它
 
