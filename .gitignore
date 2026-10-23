@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+pet-install-test/
+*.backup-*/
+.env
+.env.*
+work/
