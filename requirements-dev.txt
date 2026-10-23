@@ -1,0 +1,2 @@
+# Only needed for spritesheet validation; installation uses the Python standard library.
+Pillow>=10.4,<13
